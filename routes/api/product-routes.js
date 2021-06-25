@@ -47,7 +47,7 @@ router.post('/', async (req, res) => {
           tag_id,
         };
       });
-      const productTagIds= await ProductTag.bulkCreate(productTagIdArr);
+      const productTagIds = await ProductTag.bulkCreate(productTagIdArr);
     
       res.status(200).json(productTagIds);
     }
