@@ -55,7 +55,9 @@ router.put('/:id', async (req, res) => {
         }
       }
     )
-    res.status
+    res.status(200).json(updateTag);
+  } catch (err) {
+    res.status(400).json(err);
   }
 });
 
