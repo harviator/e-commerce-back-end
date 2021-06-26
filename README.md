@@ -54,10 +54,6 @@ THEN I am able to successfully create, update, and delete data in my database
 * Biggest challenge for this project was completing the routes.  While the routes for the Categories cames together quickly the Product routes did not.  The biggest success for this project was completing the Product POST route.  I had trouble with the POST route because although it was given, I changed it to an async/await, which required some extra help to get functioning properly, but was a good learning opportunity.
 * Credit to my TA's, tutor, and classmates.
 
-## Screen Shots
+## Walkthrough Video
 
-![Screen Shot](./public/assets/images/screen-shot.png)
-![Screen Shot 2](./public/assets/images/screen-shot2.png)
-
-## Link
-https://afternoon-fjord-14538.herokuapp.com/
+https://drive.google.com/file/d/1V4xSrw06gZcxhvyEu5vo6FTRyG1j8YKe/view
