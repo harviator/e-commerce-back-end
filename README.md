@@ -1,3 +1,4 @@
+![MIT Badge](https://img.shields.io/badge/License-MIT-green)
 # E-Commerce Back End
 
 ## Background
