@@ -10,9 +10,7 @@ This was a homework assignment for the UofT Bootcamp.  Below is the user story a
 [Acceptance Criteria](#acceptance-criteria)\
 [Technologies](#technologies)\
 [Process](#process)\
-[Screen Shot](#screen-shot)\
 [Walkthrough Video](#walkthrough-video)\
-[Link](#link)
 
 
 ## User Story
